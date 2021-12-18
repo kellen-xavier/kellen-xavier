@@ -27,7 +27,7 @@
 
 
 
-📬 [Contato](kellenxaviier@gmail.com)
+
 
 
 
