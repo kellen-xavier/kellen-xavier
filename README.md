@@ -31,7 +31,8 @@
 
 
 
-📬 [Contato](www.linkedin.com/in/kellen-xavier)
+
+
 
 
 
