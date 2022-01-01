@@ -3,7 +3,8 @@
 
 
 🦄 Habilidades & Tecnologias:
-<strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Bootstrap</strong>, <strong>React</strong>... <strong>PHP</strong>, <strong>MySQL</strong>, <strong>Apache</strong>, <strong>Docker</strong>;
+<strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Bootstrap</strong>, <strong>React</strong>... 
+<strong>PHP</strong>, <strong>MySQL</strong>, <strong>Docker</strong>;
 
 
 
