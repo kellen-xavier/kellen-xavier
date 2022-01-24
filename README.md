@@ -1,25 +1,14 @@
 :octocat: <strong>Kellen Xavier</strong> - Analista de Testes QA 👾 🐞
 
 
-
-🦄 Habilidades & Tecnologias:
-<strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Bootstrap</strong>, <strong>React</strong>... 
-<strong>PHP</strong>, <strong>MySQL</strong>, <strong>Docker</strong>;
+🦄 Habilidades & Tecnologias: <strong>HTML, CSS, JavaScript, Bootstrap, React ...</br>
+PHP, MySQL, Firebase, Docker</strong>;
 
 
+🤖Testes Automatizados: <strong>Selenium, JAVA, Maven</strong>;
 
 
-🤖Testes Automatizados: <strong>Selenium</strong>, <strong>JAVA</strong>, 
-<strong>Maven</strong>;
-
-
-
-
-
-
-
-🛠️ Ferramentas: <strong>Git</strong>, <strong>Atlassian JIRA</strong>, <strong>VS CODE</strong>, <strong>IDE IJ</strong>, <strong>Eclipse</strong>;
-
+🛠️ Ferramentas: <strong>Git, Atlassian JIRA, VS CODE, IDE IJ, Eclipse</strong>;
 
 
 ☕ Ambiente:
@@ -28,46 +17,9 @@
 
 
 
-
-
-
-
-
-
-
+<a href="https://www.linkedin.com/in/kellen-xavier" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/kellen-xavier"/>
+</a>
 
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
