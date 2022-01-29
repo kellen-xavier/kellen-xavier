@@ -1,11 +1,11 @@
 :octocat: <strong>Kellen Xavier</strong> - Analista de Testes QA 👾 🐞
 
 
-🦄 Habilidades & Tecnologias: <strong>HTML, CSS, JavaScript, Bootstrap, React ...</br>
+Habilidades & Tecnologias: <strong>HTML, CSS, JavaScript, Bootstrap, React ...</br>
 PHP, MySQL, Firebase, Docker</strong>;
 
 
-🤖Testes Automatizados: <strong>Selenium, JAVA, Maven</strong>;
+Testes Automatizados: <strong>Selenium, JAVA, Maven</strong>;
 
 
 🛠️ Ferramentas: <strong>Git, Atlassian JIRA, VS CODE, IDE IJ, Eclipse</strong>;
