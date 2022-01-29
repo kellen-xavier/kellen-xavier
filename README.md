@@ -1,4 +1,4 @@
-:octocat: <strong>Kellen Xavier</strong> - Analista de Testes QA 👾 🐞
+<strong>Kellen Xavier</strong> - Analista de Testes QA 👾 🐞
 
 
 Habilidades & Tecnologias: <strong>HTML, CSS, JavaScript, Bootstrap, React ...</br>
