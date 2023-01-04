@@ -1,4 +1,4 @@
-<strong>Kellen Xavier</strong> - Analista de Testes QA 👾 🐞
+<a href="https://emoji.gg/emoji/8587-anya-delighted"><img src="https://cdn3.emoji.gg/emojis/8587-anya-delighted.png" width="64px" height="64px" alt="Anya_Delighted"></a> <strong>Kellen Xavier</strong> - Analista de Testes QA 👾 🐞
 
 
 <strong> Habilidades & Tecnologias 🛠️: </strong></br>
@@ -33,5 +33,6 @@
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/kellen-xavier"/>
 </a>
 
-</br> ![8587-anya-delighted](https://user-images.githubusercontent.com/19178806/210494216-f33d4c7e-7d7b-4886-b830-7c57952e6086.png)
----
+<a href="https://emoji.gg/emoji/2731-anya-tired"><img align='right' src="https://cdn3.emoji.gg/emojis/2731-anya-tired.png" width="64px" height="64px" alt="Anya_Tired"></a>
+
+
