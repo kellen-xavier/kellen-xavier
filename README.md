@@ -1,5 +1,7 @@
-<img src="https://cdn3.emoji.gg/emojis/8587-anya-delighted.png" width="64px" height="64px" alt="Anya_Delighted"></a> <strong>Kellen Xavier</strong> - Analista de Testes QA 👾 🐞
 
+</a> <strong>Kellen Xavier</strong> - Analista de Testes QA 👾 🐞
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellen-xavier&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <strong> Habilidades & Tecnologias 🛠️: </strong></br>
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
