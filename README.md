@@ -2,7 +2,7 @@
 
 <p align="left">
 <img width="45" alt="about" src="https://user-images.githubusercontent.com/19178806/211726037-f8d0d80a-81b0-4dcf-aa98-a91b99ca06fa.gif">
-<strong>Analista de Testes QA 👾 🐞</strong>.<br> It's not possible. No, it's necessary.
+<strong>Analista de Testes QA 👾 🐞</strong>.<br>
 </p>
 
 
