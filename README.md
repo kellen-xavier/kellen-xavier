@@ -30,7 +30,3 @@
 <strong> ☕ Sistema: </strong>
 
 ![image](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
-
----
-
-
