@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-<img width="45" alt="about" src="https://user-images.githubusercontent.com/19178806/211726037-f8d0d80a-81b0-4dcf-aa98-a91b99ca06fa.gif">
-<strong>Analista de Testes QA 👾 🐞</strong>.<br>
+<strong>Analista de Testes QA 👾 🐞</strong> <img width="45" alt="about" src="https://user-images.githubusercontent.com/19178806/211726037-f8d0d80a-81b0-4dcf-aa98-a91b99ca06fa.gif"> <br>
 </p>
 
 
@@ -15,8 +14,6 @@
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![image](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white)
-
-
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -36,7 +33,4 @@
 
 ---
 
-<img align='right' src="https://cdn3.emoji.gg/emojis/2731-anya-tired.png" width="64px" height="64px" alt="Anya_Tired">
-<p align="center">
-    <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+
