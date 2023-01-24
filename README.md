@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://user-images.githubusercontent.com/19178806/214409488-f5766f93-4ac8-4bda-afa0-6808ee58b6e8.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Victor Mattosinhos">
+
 
 <p align="left">
 <strong>Analista de Testes QA 👾 🐞</strong> <img width="45" alt="about" src="https://user-images.githubusercontent.com/19178806/211726037-f8d0d80a-81b0-4dcf-aa98-a91b99ca06fa.gif"> <br>
