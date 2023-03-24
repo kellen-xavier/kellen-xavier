@@ -7,8 +7,9 @@
 
 
 
-👋 Hello There! Me chamo Kellen formada em Analise e Desenvolvimento de Sistemas</br> 🔭 Estou trabalhando como Analista de Testes - QA. Atualmente compartilho um 
-pouco dos meus estudos e trabalhos 👩🏼‍💻📚💜
+👋 Hello There! Me chamo Kellen formada em ADS.</br>
+🔭 Estou trabalhando como Analista de Testes - QA.</br>
+Atualmente compartilho um pouco dos meus estudos e trabalhos 👩🏼‍💻📚💜
 
 ---
 
