@@ -8,7 +8,7 @@
 
 
 👋 Hello There! Me chamo Kellen formada em ADS.</br>
-🔭 Estou trabalhando como Analista de Testes - QA.</br>
+🔭 Estou trabalhando como Quality Assurance Engineer.</br>
 Atualmente compartilho um pouco dos meus estudos e trabalhos 👩🏼‍💻📚💜
 
 ---
