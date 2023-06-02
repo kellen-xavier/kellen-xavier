@@ -13,8 +13,8 @@
 
 ---
 
-- 🌱 <strong>Estudando:</strong> Programação Funcional e Clojure
-- <strong> ☕ Sistema: </strong> Manjaro
+🌱 <strong>Estudando:</strong> Programação Funcional e Clojure </br>
+<strong>☕ Sistema: </strong> Manjaro
 
 
 <p align="center">- It's not possible. No, it's necessary.</p>
