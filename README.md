@@ -7,16 +7,11 @@
 
 
 
-👋 Hello There! Me chamo Kellen formada em ADS.</br>
-🔭 Estou trabalhando como Quality Assurance Engineer.</br>
-Atualmente compartilho um pouco dos meus estudos e trabalhos 👩🏼‍💻📚💜
+👋 Hello There! Me chamo Kellen, sou formada em ADS.</br>
+🔭 Trabalhando como QA.</br>
+📚 Atualmente compartilho um pouco dos meus estudos e trabalhos 👩🏼‍💜💻
 
 ---
-
-<strong>🛠️ Skills:</strong> CLOJURE  / JAVA / PHP / REACT / JS / HTML / CSS </br>
-Cypress; Cucumber; Cypress Testing Library; 
-BrowserStack;</br> Postman; Gerenciador de BD SQL; NoSQL,</br> 
-MongoDB; Selenium; JSON; GIT;
 
 - 🌱 <strong>Estudando:</strong> Programação Funcional e Clojure
 - <strong> ☕ Sistema: </strong> Manjaro
