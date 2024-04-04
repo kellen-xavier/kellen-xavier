@@ -14,7 +14,7 @@
 ---
 
 🌱 <strong>Estudando:</strong> Programação Funcional e Clojure </br>
-<strong>☕ Sistema: </strong> Manjaro
+<strong>☕ Setup: </strong> Linux Mint
 
 
 <p align="center">- It's not possible. No, it's necessary.</p>
