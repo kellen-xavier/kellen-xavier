@@ -9,11 +9,12 @@
 
 👋 Hello There! Me chamo Kellen, sou formada em ADS.</br>
 🔭 Trabalhando como QA.</br>
-📚 Atualmente compartilho um pouco dos meus estudos e trabalhos 👩🏼‍💜💻
+📚 Atualmente compartilhando um pouco dos meus estudos e trabalhos 👩🏼‍💜💻
 
 ---
 
-🌱 <strong>Estudando:</strong> Desenvolvimento e Automações Web - Javascript </br>
+🌱 <strong>Estudando:</strong> Desenvolvimento e Automações Web
+- Javascript - Cypress - CI/CD - Arquitetura de Software </br>
 <strong>☕ Setup: </strong> Linux Mint
 
 <p align="center">- It's not possible. No, it's necessary.</p>
