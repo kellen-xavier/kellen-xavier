@@ -13,8 +13,8 @@
 
 ---
 
-🌱 <strong>Estudando:</strong> Desenvolvimento e Automações Web
-- Javascript - Cypress - CI/CD - Arquitetura de Software </br>
+🌱 <strong>Estudando:</strong> Desenvolvimento e Automações Web,
+Javascript - Cypress - CI/CD - Arquitetura de Software </br>
 <strong>☕ Setup: </strong> Linux Mint
 
 <p align="center">- It's not possible. No, it's necessary.</p>
