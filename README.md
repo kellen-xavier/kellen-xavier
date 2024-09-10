@@ -7,14 +7,30 @@
 
 
 
-👋 Hello There! Me chamo Kellen, sou formada em ADS.</br>
-🔭 Trabalhando como QA.</br>
-📚 Atualmente compartilhando um pouco dos meus estudos e trabalhos 👩🏼‍💜💻
+Hello There! Me chamo Kellen, sou formada em ADS!</br>
+🔭 Trabalhando como QA</br>
+📚 Atualmente compartilhando meus estudos e experiências diárias através de um diário técnico. 👩🏼‍💜💻
 
 ---
 
-🌱 <strong>Estudando:</strong> Desenvolvimento e Automações Web,
-Javascript - Cypress - CI/CD - Arquitetura de Software </br>
-<strong>☕ Setup: </strong> Linux Mint
+🌱 <strong>Estudando:</strong> 
 
-<p align="center">- It's not possible. No, it's necessary.</p>
+- Desenvolvimento e Automações Web
+- Ecossistema JavaScript (foco em Cypress, CI/CD e Arquitetura de Software)
+
+📖 Leituras:
+- Técnico: Entrega Contínua
+
+- Não técnico: A Biblioteca dos Sonhos Secretos - Michiko Aoyama
+
+🌐 Mantendo-me informado: 
+- Newsletter Código Fonte TV
+- Filipe Deschamps
+
+<strong>☕ Setup: </strong> 
+
+- Sistema pessoal: Linux Mint 21.2 Cinnamon
+
+- Trabalho: Windows 11
+
+<p align="letf">- It's not possible. No, it's necessary.</p>
