@@ -16,12 +16,13 @@ Hello There! Me chamo Kellen, sou formada em ADS!</br>
 🌱 <strong>Estudando:</strong> 
 
 - Desenvolvimento e Automações Web
-- Ecossistema JavaScript (foco em Cypress, CI/CD e Arquitetura de Software)
+- Ecossistema JavaScript (CI/CD e Arquitetura de Software)
+- Linguagem: CSharp
 
 📖 Leituras:
 - Técnico: Entrega Contínua
 
-- Não técnico: A Biblioteca dos Sonhos Secretos - Michiko Aoyama
+- Não técnico: Chocolate quente às quintas-feiras - Michiko Aoyama
 
 🌐 Mantendo-me informado: 
 - Newsletter Código Fonte TV
