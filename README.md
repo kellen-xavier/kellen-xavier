@@ -13,22 +13,23 @@ Hello There! Me chamo Kellen, sou formada em ADS!</br>
 
 - Desenvolvimento e Automações Web
 - CI/CD e Arquitetura de Software
-- Linguagem: CSharp, JS
+- Linguagem: JS, Clojure
+- Rust 2025
 
 📖 **Leituras:**
 
 - **Técnico:** Entrega Contínua
-- **Não técnico:** Chocolate quente às quintas-feiras - Michiko Aoyama
+- **Não técnico:** O Impulso - Won-pyung Sohn
 
 🌐 **Mantendo-me informado:**
 
-- Newsletter Código Fonte TV
+- Newsletter Compilado do Código Fonte TV
 - Filipe Deschamps
 
 **☕ Setup:**
 
 - **Sistema pessoal:** Linux Mint 21.2 Cinnamon [Instale o setup aqui](https://github.com/kellen-xavier/setup-linux)
-- **Trabalho:** Windows 11
+- **Trabalho:** Windows 11 [Criei um script aqui](https://github.com/kellen-xavier/scripts-config-windows)
 
 ## It's not possible. No, it's necessary
 
