@@ -19,7 +19,7 @@ Hello There! Me chamo Kellen, sou formada em ADS!</br>
 📖 **Leituras:**
 
 - **Técnico:** Entrega Contínua - Como Entregar Software de Forma Rápida e Confiável: Jez Humble | David Farley
-- **Não técnico:** O Impulso - Won-pyung Sohn
+- **Não técnico:** A extraordinária cozinha dos livros
 
 🌐 **Mantendo-me informado:**
 
