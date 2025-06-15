@@ -13,13 +13,13 @@ Hello There! Me chamo Kellen, sou formada em ADS!</br>
 
 - Desenvolvimento e Automações Web
 - CI/CD e Arquitetura de Software
-- Linguagem: JS, Clojure
+- Linguagem: JS, JAVA, PHP
 - Rust 2025
 
 📖 **Leituras:**
 
-- **Técnico:** Entrega Contínua - Como Entregar Software de Forma Rápida e Confiável: Jez Humble | David Farley
-- **Não técnico:** A extraordinária cozinha dos livros
+- **Técnico:** Tidy First | Kent Beck + DDD | Eric Evans
+- **Não técnico:** A loja dos dias de Chuva | You Yeong Gwang
 
 🌐 **Mantendo-me informado:**
 
