@@ -17,8 +17,8 @@ Hello There! My name is Kellen, I have postgraduate degree in Software Engineeri
 
 📖 **Readings:**
 
-- **Tech:** Tidy First | Kent Beck + DDD | Eric Evans
-- **Non-technical:** Frankenstein | Mary Shelley
+- **Tech:** Tidy First | Arquitetura Limpa - Robert C Martin | 
+- **Non-technical:** O Silmarillion - por J. R. R. Tolkien - releituras
 
 🌐 **I keep myself informed:**
 
