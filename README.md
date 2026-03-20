@@ -34,3 +34,4 @@ Hello There! My name is Kellen, I have postgraduate degree in Software Engineeri
 ## It's not possible. No, it's necessary
 
 [Portfolio](https://github.com/kellen-xavier/portfolio-pageview)
+[Blog](https://ladydebug.com.br/blog)
