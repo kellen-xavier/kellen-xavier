@@ -19,8 +19,8 @@ Hello There! My name is Kellen, I have postgraduate degree in Software Engineeri
 
 📖 **Readings:**
 
-- **Tech:** Tidy First | Arquitetura Limpa - Robert C Martin | 
-- **Non-technical:** A pequena loja dos grandes milagres
+- **Tech:** Não me Faça Pensar - Steve Krug + Enviesados - Rian Dutra 
+- **Non-technical:** Breve Tratado em Louvor de Dante Alighieri - autor: Giovanni Boccaccio 
 
 🌐 **I keep myself informed:**
 
