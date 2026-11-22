@@ -3,17 +3,17 @@
 <p align="center">
 <img width="45" alt="about" src="https://user-images.githubusercontent.com/19178806/211726037-f8d0d80a-81b0-4dcf-aa98-a91b99ca06fa.gif"><br><strong>Software Engineer</strong></p>
 
-Hello There! My name is Kellen, I have postgraduate degree in Software Engineering !</br>
-🔭 Working with Software Engineer</br>
+Hello There! My name is Kellen, I have a postgraduate degree in Software Engineering!
+🔭 Working as a Software Engineer
 [Followup my process with engineer here](https://kellen-xavier.github.io/ladydebug.github.io/)
 
-📚 Current share my studies and experiences through the technical daily. 👩🏼‍💜💻
+📚 Current share my studying and experiences through the technical daily. 👩🏼‍💜💻
 
 ---
 
 🌱 **Studing:**
 
-- Development and automation your life
+- Development and automation for everyday life
 - CI/CD and Software Architecture
 - Tech: Ruby on Rails, Rust, Python, and C-Sharp
 
